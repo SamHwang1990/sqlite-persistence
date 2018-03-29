@@ -1,0 +1,22 @@
+{
+  "name": "persistence",
+  "version": "1.0.0",
+  "description": "sqlite 数据持久层，参考大神[Casa](https://casatwy.com/pages/about-me.html) 的文章：[iOS应用架构谈 本地持久化方案及动态部署](https://casatwy.com/iosying-yong-jia-gou-tan-ben-di-chi-jiu-hua-fang-an-ji-dong-tai-bu-shu.html) 来设计的。Casa 对他的持久化方案有对应ios 端的实现：[CTPersistance](https://github.com/casatwy/CTPersistance)，这个库是直接改写成Javascript 版本而已。",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamHwang1990/sqlite-persistence.git"
+  },
+  "author": "samhwang1990@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamHwang1990/sqlite-persistence/issues"
+  },
+  "homepage": "https://github.com/SamHwang1990/sqlite-persistence#readme"
+}
